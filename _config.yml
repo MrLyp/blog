@@ -1,3 +1,6 @@
-name: Flex
-markdown: redcarpet
+name: Lyp's Blog
+title: Lyp's Blog
+markdown: kramdown
 highlighter: rouge
+tagline: Site Tagline
+github_username: MrLyp
