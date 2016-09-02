@@ -1,9 +1,3 @@
-name: Simply Grey
+name: Flex
 markdown: redcarpet
-highlighter: rouge
-github: https://www.github.com/mrlyp
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
-urls:
-    - text: github
-      url: https://github.com/mrlyp
-baseurl: '/blog'
+pygments: true
