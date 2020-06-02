@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example post
+title: Git Fork And PR
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2016-09-02 12:00:00
 categories: posts
 ---
 
