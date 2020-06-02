@@ -1,3 +1,11 @@
+---
+layout: post
+title: Example post
+cover: cover.jpg
+date:   2013-12-09 12:00:00
+categories: posts
+---
+
 #git fork and pull-request
 Whether you're trying to give back to the open source community or collaborating on your own projects, knowing how to properly fork and generate pull requests is essential. Unfortunately, when I started going through the process of forking and issuing pull requests, I had some trouble figuring out the proper method for doing so and made quite a few mistakes along the way. I found a lot of the information on GitHub and around the internet to be rather piecemeal and incomplete - part of the process described here, another there, common hangups in a different place, and so on.
 
